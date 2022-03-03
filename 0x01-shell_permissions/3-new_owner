@@ -1,2 +1,2 @@
 #!/bin/bash
-chown [OPTIONS] betty[:GROUP] hello
+chown betty hello
